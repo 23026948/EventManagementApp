@@ -5,8 +5,8 @@ const multer = require('multer');
 const path = require('path');
 
 const connection = mysql.createConnection({
-  host: 'localhost',
-  user: 'root',
+  host: 'db4free.net',
+  user: 'haoyi123',
   password: 'Republic_C207',
   database: 'c237_submission'
 });
